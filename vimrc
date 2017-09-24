@@ -48,7 +48,6 @@ set nocursorline
 
 syntax sync minlines=256
 set synmaxcol=300
-set re=1
 
 " do not hide markdown
 set conceallevel=0
