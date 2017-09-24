@@ -88,3 +88,6 @@
 [submodule "bundle/vim-superman"]
 	path = bundle/vim-superman
 	url = https://github.com/jez/vim-superman
+[submodule "bundle/ansible-vim"]
+	path = bundle/ansible-vim
+	url = https://github.com/dbckz/ansible-vim.git
